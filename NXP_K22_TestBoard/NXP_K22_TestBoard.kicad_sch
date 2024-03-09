@@ -1,5 +1,89 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "fbe1959f-957a-4706-8cc2-1246388efb59")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 15.24 17.78)
+		(size 20.32 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "be6f010c-96d2-45f8-b263-a1d829dc7a47")
+		(property "Sheetname" "Microcontroller"
+			(at 15.24 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microcontroller.kicad_sch"
+			(at 15.24 37.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NXP_K22_TestBoard"
+				(path "/fbe1959f-957a-4706-8cc2-1246388efb59"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 17.78)
+		(size 20.32 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cb8dd5bc-4d19-43bb-8f33-61e3e00f01c9")
+		(property "Sheetname" "Connectors"
+			(at 50.8 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 50.8 37.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NXP_K22_TestBoard"
+				(path "/fbe1959f-957a-4706-8cc2-1246388efb59"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
