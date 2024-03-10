@@ -7036,6 +7036,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 34.29 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/1uF/X7R/50V/0603"
+			(at 34.29 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3a812096-c8c6-4902-bc8c-5a6ea331df9d")
 		)
@@ -7302,6 +7320,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 88.9 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
+			(at 88.9 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "347ee35f-1f73-443a-af9b-5e63b974355b")
 		)
@@ -7438,6 +7474,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C122325"
+			(at 59.69 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "T495D226K035ATE125"
+			(at 59.69 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d54d5702-d6d1-4397-aafe-7e7b240f6f41")
 		)
@@ -7498,6 +7552,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 233.68 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic R/33R/0603"
 			(at 233.68 93.98 0)
 			(effects
 				(font
@@ -7702,6 +7765,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 194.31 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic R/10k/0603"
 			(at 194.31 44.45 0)
 			(effects
 				(font
@@ -8044,6 +8116,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Generic R/10k/0603"
+			(at 190.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5ae2ca52-b380-46dd-a92b-9d76332af3ac")
 		)
@@ -8105,6 +8186,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 96.52 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 96.52 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
 			(at 96.52 158.75 0)
 			(effects
 				(font
@@ -8248,6 +8347,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C275489"
+			(at 93.98 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MPZ1608Y221BTA00"
+			(at 93.98 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1e3ca4d-b875-4e60-a269-421867d9b96c")
 		)
@@ -8309,6 +8426,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 106.68 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 106.68 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
 			(at 106.68 158.75 0)
 			(effects
 				(font
@@ -8379,6 +8514,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 275.59 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 275.59 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
 			(at 275.59 99.06 0)
 			(effects
 				(font
@@ -8885,7 +9038,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 257.81 33.0199 0)
 			(effects
 				(font
@@ -8913,6 +9066,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 254 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 254 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
 			(at 254 31.75 0)
 			(effects
 				(font
@@ -9087,7 +9258,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "1n"
 			(at 245.11 33.0199 0)
 			(effects
 				(font
@@ -9115,6 +9286,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 248.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 248.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/1nF/X7R/16V/0603"
 			(at 248.92 31.75 0)
 			(effects
 				(font
@@ -9259,6 +9448,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 125.73 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
+			(at 125.73 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "79d53f36-528f-4521-b5c0-f0613ec01bd8")
 		)
@@ -9322,6 +9529,24 @@
 		)
 		(property "Description" ""
 			(at 101.6 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Champ5" "C965554"
+			(at 125.73 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MK22FN512VLH12"
+			(at 125.73 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9585,6 +9810,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 240.03 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/10pF/C0G/50V/0603"
+			(at 240.03 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6dd5930a-262c-4ea3-9613-3130da327e1f")
 		)
@@ -9653,6 +9896,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Generic R/33R/0603"
+			(at 93.98 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7b606af6-f39d-482d-932c-e1dc001b1e6e")
 		)
@@ -9713,6 +9965,24 @@
 			)
 		)
 		(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
+			(at 46.99 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C6186"
+			(at 46.99 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AMS1117-3.3"
 			(at 46.99 158.75 0)
 			(effects
 				(font
@@ -9923,6 +10193,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "Generic R/33R/0603"
+			(at 93.98 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dc1428e0-2b31-4672-bfbc-a239e487dd96")
 		)
@@ -10117,6 +10396,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 96.52 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic R/10k/0603"
 			(at 96.52 33.02 0)
 			(effects
 				(font
@@ -10329,6 +10617,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 101.6 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
+			(at 101.6 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3e9569f6-9170-4eff-a6bf-3ba91321c2db")
 		)
@@ -10398,6 +10704,15 @@
 			)
 		)
 		(property "MPN" "PTS645SH50SMTR92LFS"
+			(at 87.63 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C221869"
 			(at 87.63 49.53 0)
 			(effects
 				(font
@@ -10476,10 +10791,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0be8e382-4110-480f-b377-a7fd5aa1a874")
+			(uuid "0be8e382-4110-480f-b377-a7fd5aa1a875")
 		)
 		(pin "1"
-			(uuid "acd5f019-94c0-4b89-99dc-4f4821826f47")
+			(uuid "acd5f019-94c0-4b89-99dc-4f4821826f48")
 		)
 		(instances
 			(project "NXP_K22_TestBoard"
@@ -11005,6 +11320,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 116.84 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
+			(at 116.84 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c824646-5099-4790-922d-3d6120d642d9")
 		)
@@ -11067,6 +11400,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 130.81 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 130.81 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
 			(at 130.81 34.29 0)
 			(effects
 				(font
@@ -11144,6 +11495,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 86.36 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/1uF/X7R/50V/0603"
+			(at 86.36 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51fa6fd7-0876-4b41-80cb-52f35783e126")
 		)
@@ -11177,7 +11546,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "20p"
 			(at 45.72 72.3899 0)
 			(effects
 				(font
@@ -11205,6 +11574,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 49.53 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 49.53 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/12pF/C0G/50V/0603"
 			(at 49.53 71.12 0)
 			(effects
 				(font
@@ -11273,6 +11660,24 @@
 			)
 		)
 		(property "Description" "Clipped sine wave temperature compensated crystal oscillator, 1.7~3.465V, 0.5ppm"
+			(at 264.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5355149"
+			(at 264.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ECS-TXO-3225MV-122.8-TR"
 			(at 264.16 91.44 0)
 			(effects
 				(font
@@ -11557,6 +11962,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 118.11 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/100nF/X7R/16V/0603"
+			(at 118.11 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cce47ea3-6b51-4527-bc1f-a08ba5e6259b")
 		)
@@ -11591,7 +12014,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "20p"
 			(at 63.5 72.3899 0)
 			(effects
 				(font
@@ -11619,6 +12042,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 59.69 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 59.69 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/12pF/C0G/50V/0603"
 			(at 59.69 71.12 0)
 			(effects
 				(font
@@ -11660,7 +12101,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "32.768 kHz"
 			(at 54.61 60.96 0)
 			(effects
 				(font
@@ -11687,6 +12128,24 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
+			(at 54.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C32346"
+			(at 54.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Q13FC1350000400"
 			(at 54.61 66.04 0)
 			(effects
 				(font
@@ -11756,6 +12215,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 107.95 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 107.95 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Generic C/1nF/X7R/16V/0603"
 			(at 107.95 184.15 0)
 			(effects
 				(font
@@ -11958,6 +12435,24 @@
 			)
 		)
 		(property "Description" "32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"
+			(at 237.49 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C179173"
+			(at 237.49 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "W25Q32JVSSIQ"
 			(at 237.49 46.99 0)
 			(effects
 				(font
